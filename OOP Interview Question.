@@ -1,0 +1,19 @@
+What is OOP?
+	OOP stand Object Oriented Programming. In OOP, we write a program by using class and object. OOP provide the facility of reusability.
+What is Class?
+		Class are a blueprint, Skelton, or Template to build a specific type of object. In other word, we can say that class is a user define data type. A class contain data member and member function. The behavior of class by default is private.
+Coding Example. 
+Class person
+{
+// Data member.
+//Member function
+}
+What is Object?
+	Object is an instant of a class. 
+
+How many Pillars of OOP. 
+		Pillars of OOP are four. 
+1.	Abstraction
+2.	Encapsulation
+3.	Inheritance
+4.	Polymorphism
